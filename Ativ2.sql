@@ -20,7 +20,7 @@ CREATE TABLE Comentarios (
     Autor VARCHAR(50),
     Texto TEXT,
     DataComentario DATE,
-    FOREIGN KEY (ArtigoID) REFERENCES Artigos_diego(ArtigoID)
+    FOREIGN KEY (ArtigoID) REFERENCES Artigos(ArtigoID)
 );
 
 

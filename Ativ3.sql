@@ -31,7 +31,7 @@ INSERT INTO Funcionarios (FuncionarioID, Nome, Cargo, Salario, DepartamentoID)
 VALUES
     (1, 'Funcionario1', 'Gerente', 6000.00, 1),
     (2, 'Funcionario2', 'Analista', 4500.00, 2),
-    (3, 'Funcionario3', 'Diretor', 3500.00, 3),
+    (3, 'Funcionario3', 'Diretor', 5000.00, 3),
     (4, 'Funcionario4', 'Programador', 5000.00, 4),
     (5, 'Funcionario5', 'Marketeiro', 4000.00, 5);
     
